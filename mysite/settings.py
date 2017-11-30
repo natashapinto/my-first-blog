@@ -25,7 +25,7 @@ SECRET_KEY = 'l1h%gm=_0-)r@1)e&l_$fq-(s9o&cac$%6sfp_ohmec#sk2k40'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'GoFish.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'gofish.pythonanywhere.com']
 
 
 # Application definition
